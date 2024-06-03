@@ -4,8 +4,8 @@
 
 1.- Clone the project
 
-2.- Excecute ```npm install```
+2.- Execute ```npm install```
 
 3.- Set backend ```npm run backend```
 
-4.- Excecyte the app ```npm start``` o ```ng serve -o```
+4.- Execute the app ```npm start``` o ```ng serve -o```
