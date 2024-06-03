@@ -2,10 +2,10 @@
 
 ## Dev
 
-1.- Clonar el proyecto
+1.- Clone the project
 
-2.- Ejecutar ```npm install```
+2.- Excecute ```npm install```
 
-3.- Levantar backend ```npm run backend```
+3.- Set backend ```npm run backend```
 
-4.- Ejecutar la app ```npm start``` o ```ng serve -o```
+4.- Excecyte the app ```npm start``` o ```ng serve -o```
