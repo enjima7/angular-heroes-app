@@ -8,4 +8,4 @@
 
 3.- Set backend ```npm run backend```
 
-4.- Execute the app ```npm start``` o ```ng serve -o```
+4.- Execute the app ```npm start``` or ```ng serve -o```
